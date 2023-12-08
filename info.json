@@ -1,7 +1,7 @@
 {
-  "ios_version": "14",
+  "ios_version": "16",
   "info": "新版已經上線!!\n1. 新增解壓縮功能.",
-  "notice": "1. 新增解壓縮功能.\n2. 淡入資料特效.\n\n有問題歡迎與我聯繫喔~ \nsohotguys@gmail.com",
+  "notice": "1. 更新部分ui特效.\n2. 解決取消更新也會有資料的問題.\n\n有問題歡迎與我聯繫喔~ \nsohotguys@gmail.com",
   "ios_url": "https://apps.apple.com/us/app/%E5%AF%B5%E7%89%A9%E6%89%BE%E7%88%B8%E5%AA%BD/id6463616454",
   "adoptAPI":"https://data.coa.gov.tw/Service/OpenData/TransService.aspx?UnitId=QcbUEzN6E6DL",
   "lostAPI":"https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=IFJomqVzyB0i"
