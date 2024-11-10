@@ -1,8 +1,8 @@
 {
-  "ios_version": "16",
-  "info": "新版已經上線!!\n1. 新增解壓縮功能.",
+  "ios_version": "17",
+  "info": "大改版寵物領養紀錄APP已經上線!!\n這個版本站不再支援更新摟~\n快點去來體驗吧!",
   "notice": "1. 更新部分ui特效.\n2. 解決取消更新也會有資料的問題.\n\n有問題歡迎與我聯繫喔~ \nsohotguys@gmail.com",
-  "ios_url": "https://apps.apple.com/us/app/%E5%AF%B5%E7%89%A9%E6%89%BE%E7%88%B8%E5%AA%BD/id6463616454",
+  "ios_url": "https://reurl.cc/E6kyQm",
   "adoptAPI":"https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=QcbUEzN6E6DL&IsTransData=1",
   "lostAPI":"https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=IFJomqVzyB0i"
 }
